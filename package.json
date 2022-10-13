@@ -1,0 +1,13 @@
+{
+  "name": "capsule",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "uno-J <juno@karry.kr>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.1.2",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mysql2": "^2.3.3"
+  }
+}
